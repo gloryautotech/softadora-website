@@ -1,0 +1,100 @@
+/*
+
+Template: Flutter :  Smart Devices Multi-purpose HTML5 template
+Author: iqonicthemes.in
+Version: 1.0
+Design and Developed by: iqonicthemes.in
+
+NOTE: This file contains the styling for responsive Template.
+
+*/
+
+/*****************
+================================================
+ (  Media Queries  )
+================================================
+ *******************/
+@media(min-width:1601px) { }
+@media(max-width:1399px) {
+	.your-room .room-alexa { height: 70vh; }
+	.alexa-info h1 { font-size: 62px; }
+	@media(max-width:1365px) {
+		.your-room .room-alexa { height: 60vh; }
+		.set-up-box, .iq-feature-01 { padding: 0 15px; }
+		.chat { width: 80%; margin: 30px auto; }
+		.banner { margin-top: 60px; }
+		.circle-ripple { width: 12em; height: 12em; }
+	}
+	@media(max-width:1199px) {
+		.alexa-info h1 { font-size: 46px; }
+		.re-mt-40 { margin-top: 40px; }
+		.chat-banner { position: absolute; margin: 100px auto 0; width: 52%; }
+	}
+}
+@media(max-width:992px) {
+	h1 { font-size: 42px; font-style: normal; line-height: 52px; }
+	h2 { font-size: 34px; font-style: normal; line-height: 44px; }
+	.navbar-light .navbar-toggler { box-shadow: none; border: 1px solid #00c0ff; background: #00c0ff; padding: 5px 10px; color: #fff; font-size: 28px; -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -ms-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s; transition: all 0.3s ease-out 0s; }
+	header.menu-sticky  .navbar-toggler { font-size: 22px; }
+	header .navbar .navbar-brand img { height: 50px; }
+	header .navbar.navbar-light .navbar-nav { margin-top: 15px; background: #eee; }
+	header .navbar.navbar-light .navbar-nav li { padding: 0; }
+	header .navbar.navbar-light .navbar-nav li a { padding: 10px 15px; }
+	header .navbar.navbar-light .navbar-nav li a { color: #222222; }
+	header .navbar.navbar-light .navbar-nav li a.active, header .navbar.navbar-light .navbar-nav li a:hover { color: #ffffff; background: #00c0ff; }
+	.your-room .room-info { padding: 60px; }
+	.your-room .room-alexa { height: 36vh; }
+	.your-room .room-alexa img { bottom: -31%; }
+	.re-9-mt-40 { margin-top: 40px !important; }
+	.set-up-box.stap-left:before, .set-up-box.stap-right:before { display: none; }
+	.set-up-box h4 { margin-top: 0; }
+	.iq-feature.first-l { margin-right: 0; margin-top: 0; }
+	.iq-feature.second-l { margin-right: 0; }
+	.iq-feature.first-r { margin-left: 0; margin-top: 0; }
+	.iq-feature.second-r { margin-left: 0; }
+	.tooltip-item { margin: -10px 0 0 -10px; }
+	#animated_div { background-size: inherit; }
+	.chat-banner { position: absolute; margin: 75px auto 0; width: 56%; }
+	.tooltip:first-child { left: 31%; }
+	.tooltip:nth-child(4) { right: 32%; }
+	.alexa-title { padding: 0 20px; }
+}
+@media(max-width:979px) {
+	.alexa-tv .scrollme-01 { bottom: 0px; }
+	.tooltip-item { margin: -8px 0 0 -15px; }
+	.chat-banner { position: absolute; margin: 30px auto 0; width: 70%; }
+	.spin-me-round { margin-top: 0; }
+	.tooltip-item { margin: -15px 0 0 -15px; }
+	.tooltip:first-child { left: 26%; }
+	.tooltip:nth-child(4) { right: 26%; }
+}
+@media(max-width:767px) {
+	.full-width .container-fluid { padding: 0 15px; }
+	.spin-me-round { height: 320px; width: 320px; }
+	.your-room .room-info { padding: 60px 0; }
+	.info-chat .row .col-sm-6.align-self-center { padding: 40px 15px; }
+	.alexa-tv .tv-box { padding-bottom: 40px; }
+	.chat { width: 100%; }
+	.re-4-mt-40 { margin-top: 40px; }
+	.alexa-title { position: relative; }
+	.alexa-chat { position: absolute; width: 65%; top: 16%; left: 17%; }
+	.tooltip:first-child { left: 18%; }
+	.tooltip:nth-child(4) { right: 18%; }
+	.iq-feature.second-l { display: inline-block; width: 100%; }
+	.iq-feature.second-l h4 i { float: left; margin-left: 0; margin-right: 15px; }
+	.chat-banner { display: none; }
+	.iq-feature.second-l h4 a { display: block; }
+	.iq-our-clients .input-group { display: inline-block; width: 100%; }
+	.iq-our-clients .input-group .form-control { display: inline-block; width: 100%; }
+	.iq-our-clients .input-group .button { margin-top: 25px; }
+}
+@media(max-width:479px) {
+	h2 { font-size: 28px; font-style: normal; line-height: 38px; }
+	.chat { font-size: 12px; line-height: normal; }
+	.spin-me-round { height: 220px; width: 220px; }
+	.dummy.dummy-image { display: none; }
+	.alexa-info h1 { font-size: 28px; }
+	.line-height-36 { line-height: 30px; }
+	header .navbar .navbar-brand img { height: 40px; }
+	#features .row.iq-mt-60.justify-content-center { margin-top: 0; }
+}

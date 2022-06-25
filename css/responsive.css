@@ -1,0 +1,245 @@
+/*
+
+Template: Sofbox - Responsive Software Landing Page
+Author: iqonicthemes.in
+Version: 3.0
+Design and Developed by: iqonicthemes.in
+
+NOTE: This file contains the styling for responsive Template.
+
+*/
+
+/*****************
+================================================
+ (  Media Queries  )
+================================================
+ *******************/
+
+@media (min-width:1365px) {
+
+}
+@media (min-width:1366px) {
+
+}
+@media(min-width:1601px) {
+
+}
+@media(max-width:1399px) {
+	.iot-service img{width: 26% !important;}
+header {padding: 8px 0;}
+
+.service-img{margin-bottom: 0 !important; width: 34%;}
+.clients-detail{bottom: -26px;}
+.menu-bar li{margin-bottom: 50px;}
+.clients-detail{position: relative;}
+.banner-text{padding: 18% 0;}
+.our-company .company-details{padding: 14% 0 0;}
+.our-contact .social-icone li a{width: 39px; height: 39px; line-height: 39px;}
+
+.cd-primary-nav{padding: 90px 5% 80px 8%;}
+}
+
+@media(max-width:1365px) {
+	.about-us img{margin-top: 0;}
+}
+
+@media(max-width:1280px){
+ .project-main{margin-bottom: 40px !important; }
+ .clients-detail{bottom: 0px;}
+ .banner-text{padding: 18% 0;}
+ .service-box h6{width: 306px;}
+ .our-company .company-details {padding: 18% 0;}
+ .banner-text{padding: 29% 0;}
+ .our-contact .social-icone li a{width: 36px; height: 36px; line-height: 36px;}
+ .our-company .clients-detail h6{font-size: 16px;}
+}
+
+
+@media(max-width:1199px) {
+
+	.our-company img.img-circle{right: 37px;
+    bottom: 102px;
+    width: 33%;}
+	.swiper-button-prev,.swiper-button-next{bottom: 15%;}
+	.swiper-container{margin: 40px 0 0;}
+	.our-services .nav-item a{    padding: 18px 0;}
+	.text-cross .cross-text{ right: -68px;}
+.team-bottom h2{font-size: 100px; bottom: 52px;}
+.about-us .about-detail li{font-size: 14px}
+.services-blog .owl-carousel .item .service-blog .service-blog-detail{min-height: 218px;}
+.banner-text{padding: 26% 0;}
+.banner-text h2{font-size: 50px;}
+.title h2{font-size: 30px;}
+.our-company ul li{width: 44%;}
+.title{margin-bottom: 30px;}
+.our-company .company-details{padding: 18% 0 0;}
+.service-box h6{width: 230px;}
+.our-services ul.nav.justify-content-center{margin-top: 90px !important;}
+.footer-bottom ul.social-icone li:nth-child(1) ,.footer-bottom ul.social-icone li:nth-child(2){ margin-bottom: 30px; }
+.technology-bottom h2{font-size: 8rem;}
+.banner-img .service-tab li{font-size: 12px;}
+.our-company .clients-detail{bottom: -50px;}
+.privacy-policy .privacy-policy-detail li{font-size: 14px;}
+.my-info.fade-in{width: 25%;}
+.our-services .nav-item{width: 33.33%; }
+	.our-services .nav{border: none;}
+	.our-services .nav-item{border-right: none;}
+	.our-services .swiper-wrapper .swiper-slide .col-lg-6 .title{margin-top: 30px; margin-left: 0 !important; margin-bottom: 80px !important;}
+}
+@media(max-width:1023px) {
+.fp-section,
+.fp-slide,
+.fp-tableCell{
+    height: auto !important;
+}
+
+
+}
+@media(max-width:992px) {
+	.mouse{display: none;}
+	.tag-line{top: 88%;}
+	header {padding: 20px 0;}
+	.sr-detail li:after{left: 26%;}
+	.img-center{  left: 26% ;
+    top: 20%;}
+	.artificial-img{width:54%!important; margin: 60px 0;}
+	.case-title h2{margin-top: 35%; margin-bottom: 3%;}
+	.our-story .title h2{margin-top: 35%;}
+	.banner-text{ padding: 33% 0 23%;}
+	.our-services ul.nav.justify-content-center{    margin-top: 30px !important;}
+	.technology-main .border{border: none !important;}
+	.main-service{padding: 5% 0 !important;}
+	.menu-bar li a{font-size: 28px;}
+	.menu-bar li{margin-bottom: 40px;}
+	.our-services .nav-item a{padding: 30px 0;}
+	.main-service{padding: 12% 0;}
+	.our-company .clients-detail{bottom: 0;}
+	.container-fluid{padding: 0 60px;}
+	.iq-rmb-30{margin-bottom: 30px !important;}
+	.banner-img .service-tab li{ width: 18.6%;}
+	.our-company .company-details{padding: 5% 0 0;}
+	.contact-us{padding: 60px 0;}
+	.swiper-button-prev,.swiper-button-next{bottom: 10%;}
+	.main-client .col-lg-3.col-md-6{border: none !important;}
+	body{overflow: visible !important;}
+	.service-bottom h2{font-size: 100px;}
+	.border{border: 1px solid transparent !important;}
+	.our-portfolio ul.portfolio-detail li:after{display: none;}
+	.our-company img.img-circle{    position: relative;
+    bottom: 0;
+    width: 50%;
+    left: 16%;}
+
+}
+@media(max-width:979px) {
+	.tag-line{top: 100%;}
+	.story-bottom h2{font-size: 80px;}
+	.full-menu{padding: 17% 0 0;}
+	.cd-primary-nav{padding: 80px 5% 80px 6%;}
+	.my-info.fade-in{right: 0;}
+	.my-info.fade-in{width: 33%;}
+	.banner-img .service-tab li{width: 24.6%;}
+	.banner-text h1{font-size: 70px;}
+	.banner-text h2{font-size: 38px;}
+	.banner-img .service-tab li:nth-child(1){margin-bottom: 20px;}
+	.social-media{top: 64%;}
+	.our-company ul li{width: 48%;}
+	.banner-img .service-tab{position: relative;}
+	.service-bottom h2{font-size: 70px;}
+	.menu-icon{    margin-left: 20px; }
+	.technology-bottom h2{ font-size: 5rem; }
+	.container-fluid{padding: 0 45px;}
+	.menu-icon{margin-left: 0;}
+}
+
+@media(max-width:767px) {
+	.tag-line{position: relative;     margin-top: 30px;
+    display: inline-block;}
+	.sr-detail li:after{left:0;}
+	.our-portfolio ul.portfolio-detail li{padding-left: 0 ;}
+	.client-timeline li{ padding-left:5px !important; }
+	.team-bottom h2{ position: inherit; top: 0;}
+	.img-center{left: 0%;
+    right: 0;
+    width: 60%;
+    margin: 0 auto;}
+	.img-story{top: 10%;}
+	.swiper-container{margin:40px 0;}
+	.service-bottom h2{margin:30px 0;}
+	.technology-bottom h2{margin:30px 0;}
+	.our-services ul.nav.justify-content-center{margin-top: 70px !important;}
+	.main-service{padding: 0 !important;}
+	.banner-text{    padding: 26% 0 0;}
+	.banner-text .social-media li{margin-bottom: 0; margin-right: 30px;  margin-top: 40px;}
+	ul.social-media{position: inherit; width: 270px; margin-top: 40px; left: 0; right: 0;}
+	.banner-img .service-tab{bottom: 0;}
+	.effect-two ,.effect-one{    position: inherit !important; top: 0 !important}
+	.btn-discuss{margin-right: 19px; font-size: 12px;}
+	.full-menu{padding: 23% 0 0;}
+	.service-bottom h2{top: 40px; text-align: center; font-size: 42px; position: relative;}
+	.main-service{padding: 16% 0 8%;}
+	header .navbar-brand img{height: 23px;}
+	header .navbar{display: inline-block;}
+	.cd-primary-nav{padding: 80px 5% 80px 11%;}
+	.my-info.fade-in{    width: 100%;
+    position: relative;
+    margin-top: 30px;}
+	.cd-primary-nav a,.gray-colour{ font-size: 42px;line-height: 52px;}
+	.story-bottom h2{font-size: 60px;}
+	.title h2{font-size: 24px; line-height: 34px;}
+	.button{font-size: 16px;}
+	.container-fluid{padding: 0 15px;}
+	.technology-bottom h2{top: 40px;
+    text-align: center;
+    font-size: 42px;
+    right: 0; position: relative;}
+	.banner-text h2{line-height: 48px;}
+	.container-fluid{padding: 0 50px;}
+	.banner-img .service-tab li{width: 48.6%;}
+	.banner-img .service-tab li:nth-child(3){margin-bottom: 20px;}
+	.social-media{top: 61%;}
+	.text-cross .cross-text{display: none;}
+	.our-company ul li{width: 100%;}
+	.button{padding: 10px 24px;}
+	.clients-detail{margin-top: 15px;}
+	.service-box{margin-bottom: 45px !important;}
+	.our-services .nav-item{width: 50%;}
+	.our-services ul.nav.justify-content-center{margin-top: 43px;}
+	.swiper-button-prev, .swiper-button-next{bottom: 7%;}
+	.case-title h2{font-size: 50px;}
+	.main-service .bttn{margin: 18px;}
+	h2{font-size: 30px;}
+	.button{padding: 10px 20px;}
+	.blog-details ul li:nth-child(3){margin-left: 0 !important;}
+	.blog-details ul li:nth-child(1),.blog-details ul li:nth-child(2){margin-bottom: 30px;}
+}
+@media(max-width:479px) {
+	.team-bottom h2{font-size: 50px;}
+	.blog-details ul li{margin-bottom: 30px; margin-left: 0 !important;}
+	.blog-details h3{font-size: 22px;}
+	.img-center.one{left: 0;}
+	.menu-icon:before{ top: -15px;left: -8px; width: 45px; height: 45px;}
+	.swiper-button-prev, .swiper-button-next{ bottom: 3%;}
+	.our-company .company-details{padding: 18% 0 0;}
+	.full-menu{padding: 34% 0 0; }
+	.menu-bar li{margin-bottom: 30px;}
+	.menu-bar li a{font-size: 24px;}
+	header a.mr-3.iq-fw-5{font-size: 12px;margin-right: 5px !important;}
+	header .navbar-brand img{height: 22px; width: 123px;}
+	.case-title h2{font-size: 34px; line-height: 56px; margin-top: 50%; margin-bottom: 10%;}
+	.container-fluid{padding: 0 15px;}
+	.banner-text h1{font-size: 60px;}
+	.banner-img .service-tab li{width: 100%;}
+	.banner-img .service-tab li:nth-child(1),.banner-img .service-tab li:nth-child(2),.banner-img .service-tab li:nth-child(3),.banner-img .service-tab li:nth-child(4){margin-bottom: 15px;}
+	.banner-text{padding: 40% 0 0;}
+	.social-media{position: inherit; width: 245px; margin-top: 30px;}
+	.button{padding: 10px 7px; font-size: 14px;}
+	.title h2{font-size: 25px; margin-top: 30px;}
+	.our-services .nav-item{width: 50%;}
+	.our-services .nav-item a span{display: none !important;}
+	.our-company .owl-carousel .owl-item .clients-box img{width: auto; margin:0 auto;}
+	.story-bottom h2{font-size: 46px;}
+	.img-story{top: 18%;}
+	.our-story .title h2{margin-top: 64%; font-size: 22px;}
+
+}
