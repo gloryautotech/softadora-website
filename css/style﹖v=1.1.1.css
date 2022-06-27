@@ -346,13 +346,13 @@ About Us
     width: 60% !important;
     float: right !important;
     right: 0;
-    top: -40px;
+    top: -15px;
   }
   .ps-timeline-sec .container ol.ps-timeline li .ps-bot {
     width: 60% !important;
     float: right !important;
     right: 0;
-    top: -40px;
+    top: -75px;
   }
 }
 .ps-timeline-sec .container ol:before {
